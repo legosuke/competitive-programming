@@ -1,0 +1,6 @@
+m?:ma
+ma?:mar
+mar?:mark
+mark?:marko
+marko?:markov
+?:m
